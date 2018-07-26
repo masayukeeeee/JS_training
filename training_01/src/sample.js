@@ -1,3 +1,3 @@
-document.addEventListener("DOMContentLoaded", function() {
-    console.log("I am a sample!");
-});
+// document.addEventListener("DOMContentLoaded", function() {
+//     console.log("I am a sample!");
+// });

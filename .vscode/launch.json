@@ -7,9 +7,16 @@
         {
             "type": "chrome",
             "request": "launch",
+            "name": "training02",
+            "url": "file:///${workspaceRoot}/training_02/test/index.html",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
             "name": "localhost に対して Chrome を起動",
             // "url": "http://localhost:8080",
-            "url": "file:///${workspaceRoot}/test/index.html",
+            "url": "file:///${workspaceRoot}/training_01/test/index.html",
             "webRoot": "${workspaceFolder}"
         }
     ]
