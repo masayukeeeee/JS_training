@@ -1,11 +1,5 @@
 // number generator
 var correct_number = Math.floor(Math.random() * 101);
-console.log(correct_number);
-
-
-// variable for recording predected numbers
-var predicted_numbers = new Array();
-
 
 // hints
 var hints = new Array("It's too high", "It's too low", "Congratulation!!!");
