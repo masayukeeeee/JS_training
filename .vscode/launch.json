@@ -7,6 +7,13 @@
         {
             "type": "chrome",
             "request": "launch",
+            "name": "training03",
+            "url": "file:///${workspaceRoot}/training_03/test/index.html",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
             "name": "training02",
             "url": "file:///${workspaceRoot}/training_02/test/index.html",
             "webRoot": "${workspaceFolder}"
