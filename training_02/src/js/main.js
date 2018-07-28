@@ -17,7 +17,6 @@ var guessCount = 1;
 var resetButton;
 
 
-
 // define function named resetGame
 function resetGame() {
     guessCount = 1;
